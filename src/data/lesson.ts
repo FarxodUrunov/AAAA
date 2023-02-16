@@ -88,7 +88,7 @@ export const lesson = [
 export const statistcsInfo = [
     {
         id: 1,
-        avatar: 'src/assets/img/pink.png',
+        avatar: 'images/pink.png',
         title: 'Даниэль Пинк'
     },
     {
@@ -104,7 +104,7 @@ export const statistcsInfo = [
     },
     {
         id: 4,
-        avatar: 'src/assets/img/emoje.svg',
+        avatar: 'images/emoje.svg',
         title: 'Хасан Ш.'
     }
 ]

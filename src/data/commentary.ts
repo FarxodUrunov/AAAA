@@ -1,40 +1,40 @@
 export const commentaryUser = [
     {
         name: 'KKomol',
-        avatar: 'src/assets/img/kkamal.png',
+        avatar: 'images/kkamal.png',
         description: 'Нет ребят я конечно все понимаю таких фильмов с похожим сюжетом пруд пруди, но думаю именно этот стоит посмотреть:)',
         date: '2 дня назад',
         answers: [{
             name: "TopBreyns",
             status: "Поддержка",
-            avatar: "src/assets/img/topbreyns.png",
+            avatar: "images/topbreyns.png",
             description: "Нет ребят я конечно все понимаю таких фильмов",
             date: "1 день назад",
         }]
     },
     {
         name: 'Abdullokh',
-        avatar: 'src/assets/img/abdull.png',
+        avatar: 'images/abdull.png',
         description: 'Нет ребят я конечно все понимаю таких фильмов с похожим сюжетом пруд пруди, но думаю именно этот стоит посмотреть:)',
         date: '4 дня назад',
         answers: []
     },
     {
         name: 'Amaliya Cat',
-        avatar: 'src/assets/img/amaliya.png',
+        avatar: 'images/amaliya.png',
         description: 'Нет ребят я конечно все понимаю таких фильмов с похожим сюжетом пруд пруди, но думаю именно этот стоит посмотреть:)',
         date: '6 дня назад',
         answers: [{
             name: "TopBreyns",
             status: "Поддержка",
-            avatar: "src/assets/img/topbreyns.png",
+            avatar: "images/topbreyns.png",
             description: "Нет ребят я конечно все понимаю таких фильмов",
             date: "6 день назад",
         }]
     },
     {
         name: 'Annamana',
-        avatar: 'src/assets/img/annaman.png',
+        avatar: 'images/annaman.png',
         description: 'Нет ребят я конечно все понимаю таких фильмов с похожим сюжетом пруд пруди, но думаю именно этот стоит посмотреть:)',
         date: '8 дня назад',
         answers: []
@@ -74,13 +74,13 @@ export const cursData = [
         title: 'Rober Reffikin',
         curs_info: '32 урока  ·  4 часа  ·  Программа',
         description: 'Как генеральный директор и основатель Compass Роберт Реффкин использовал.',
-        img: 'src/assets/img/curs1.png'
+        img: 'images/curs1.png'
     },
     {
         id: 2,
         title: 'Daniel Pink',
         curs_info: 'Скоро...',
         description: 'Как генеральный директор и основатель Compass Роберт Реффкин использовал.',
-        img: 'src/assets/img/curs2.png'
+        img: 'images/curs2.png'
     }
 ]

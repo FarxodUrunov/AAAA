@@ -77,11 +77,11 @@ const iconData1 = ref<any>(iconData);
     <div class="mt-5 flex flex-wrap gap-6">
       <BaseCardArticle
         text="Прогнозы трендов продаж на ближайшие пять лет"
-        src="src/assets/img/statistcs.png"
+        src="images/statistcs.png"
       />
       <BaseCardArticle
         text="Как себя вели тренды продаж прошедшие 10 лет"
-        src="src/assets/img/blocnot.png"
+        src="images/blocnot.png"
       />
     </div>
   </section>
@@ -91,7 +91,7 @@ const iconData1 = ref<any>(iconData);
   <section class="px-4 sm:px-0">
     <h4 class="text-xl text-[#ffffffe6] font-bold">32 Комментария</h4>
     <div class="flex items-center gap-5 mt-5 mb-10">
-      <BaseAvatar src="src/assets/img/emoje.svg" alt="avatar" />
+      <BaseAvatar src="images/emoje.svg" alt="avatar" />
       <span class="text-[#ffffff66] font-medium text-base tracking-[-0.4px]"
         >Оставить отзыв...</span
       >

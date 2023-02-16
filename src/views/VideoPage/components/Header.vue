@@ -15,7 +15,7 @@ const handelInput = () => {
       <div class="flex items-center">
         <img class="" src="/logo.svg" width="147.37" height="32" alt="logo" />
         <span class="inline-block w-12 h-[1px] bg-[#ffffff14] rotate-90" />
-        <BaseAvatar src="src/assets/img/avatar.svg" alt="avatar" />
+        <BaseAvatar src="images/avatar.svg" alt="avatar" />
       </div>
       <div class="flex items-center gap-10">
         <div class="flex items-center gap-4">
@@ -34,7 +34,7 @@ const handelInput = () => {
             <p>Поиск</p>
           </button>
         </div>
-        <BaseAvatar src="src/assets/img/emoje.svg" alt="emoji" />
+        <BaseAvatar src="images/emoje.svg" alt="emoji" />
       </div>
     </div>
   </header>
