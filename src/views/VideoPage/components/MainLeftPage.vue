@@ -24,12 +24,7 @@ const iconData1 = ref<any>(iconData);
 <template>
   <section>
     <div class="rounded-lg mb-8 overflow-hidden">
-      <iframe
-        class="w-full aspect-video"
-        width="1163"
-        height="654"
-        src="video/lar.mp4"
-      ></iframe>
+      <iframe class="w-full aspect-video" src="video/lar.mp4"></iframe>
     </div>
     <div class="px-4 sm:px-0 sm:flex items-start justify-between">
       <div>
