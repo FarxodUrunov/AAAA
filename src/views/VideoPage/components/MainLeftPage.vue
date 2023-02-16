@@ -24,13 +24,7 @@ const iconData1 = ref<any>(iconData);
 <template>
   <section>
     <div class="rounded-lg mb-8 overflow-hidden">
-      <video height="603" controls>
-        <source
-          src="src/assets/video/Лара Фабиан - Любовь, Похожая На Сон.mp4"
-          type="video/mp4"
-        />
-        Your browser doesn't support HTML5 video tag.
-      </video>
+      <iframe class="w-full aspect-video" src="video/lar.mp4"></iframe>
     </div>
     <div class="px-4 sm:px-0 sm:flex items-start justify-between">
       <div>

@@ -12,12 +12,7 @@ import BaseIcon from "@/components/BaseIcon/BaseIcon.vue";
           <div
             class="text-center md:text-start flex flex-col items-center md:items-start"
           >
-            <img
-              src="src/assets/logo.svg"
-              width="147.37"
-              height="32"
-              alt="logo"
-            />
+            <img src="/logo.svg" width="147.37" height="32" alt="logo" />
             <p
               class="text-base font-medium text-[#ffffff80] max-w-xs mt-3 mb-6 md:mb-10"
             >
